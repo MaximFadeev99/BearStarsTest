@@ -1,0 +1,14 @@
+{
+    "name": "BearStarsTest.Data",
+    "rootNamespace": "BearStarsTest.Data",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
